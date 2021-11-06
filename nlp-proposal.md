@@ -1,4 +1,4 @@
-#  spooky authors nlp unsupervised project
+#  Spooky Authors NLP Unsupervised Project
 * Muneera Alshunaifi
 * Tarfah Alabbad
 # Overview
