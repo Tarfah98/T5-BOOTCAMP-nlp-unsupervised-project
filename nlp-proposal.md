@@ -19,13 +19,13 @@ the project we will follow the following Natural Language Processing pipeline:
 # Data Description
 The dataset obtained from Kaggle website: https://www.kaggle.com/c/spooky-authoridentification/data, it contains text from works of fiction written by spooky authors of the public 
 domain: Edgar Allan Poe, HP Lovecraft and Mary Shelley
-Feature Description Data Type
-ID Unique identifier for each sentence object
-Text Some text written by one of the authors object
-Author
-Author of the sentence in a shortcut format (EAP: Edgar Allan 
-Poe, HPL: HP Lovecraft, MWS: Mary Wollstonecraft Shelley)
-object
+| **Feature** | **Description** |**Data Type** |
+|:------|:-------|:-------|
+| **ID** | Unique identifier for each sentence   |object   |
+| **Text** |  Some text written by one of the authors object|object   |
+| **Author** |  Author of the sentence in a shortcut format (EAP: Edgar Allan 
+Poe, HPL: HP Lovecraft, MWS: Mary Wollstonecraft Shelley) |object   |
+
 
 # Tools
 To explore and analyze the data and do the prediction models in python, we will use Jupyter 
