@@ -23,8 +23,7 @@ domain: Edgar Allan Poe, HP Lovecraft and Mary Shelley
 |:------|:-------|:-------|
 | **ID** | Unique identifier for each sentence   |object   |
 | **Text** |  Some text written by one of the authors object|object   |
-| **Author** |  Author of the sentence in a shortcut format (EAP: Edgar Allan 
-Poe, HPL: HP Lovecraft, MWS: Mary Wollstonecraft Shelley) |object   |
+| **Author** |  Author of the sentence in a shortcut format (EAP: Edgar Allan Poe, HPL: HP Lovecraft, MWS: Mary Wollstonecraft Shelley) |object   |
 
 
 # Tools
